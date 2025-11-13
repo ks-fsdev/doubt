@@ -112,3 +112,5 @@
 // // when in videos you are able to render it without importing anything.
 
 //tourist app seasonal doubt
+
+// 7. react js instagram proj : the id from timeline doeswn't open at the top of the page
