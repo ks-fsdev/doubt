@@ -114,3 +114,45 @@
 //tourist app seasonal doubt
 
 // 7. react js instagram proj : the id from timeline doeswn't open at the top of the page
+
+// // 8. custom classes and root in tailwind css
+// import @tailwindcss
+
+// @tailwind base;
+// @tailwind components;
+// @tailwind utilities;
+// // These 3 lines are underlined in red
+
+// @layer base {
+//   :root {
+//     --custom-background-color: #f3f3f6;
+//   }
+// }
+
+// // this utility is alsp showing the big red error
+// @utility {
+//   .custom-bg {
+//     background-color: var(--custom-background-color);
+//   }
+// }
+
+// // 9. found one of the svgs which crops instead of decreasing in size when changing the width, & height
+
+// <svg
+//   xmlns="http://www.w3.org/2000/svg"
+//   width="24"
+//   height="24"
+//   fill="none"
+//   aria-hidden="true"
+//   className="icon"
+// >
+//   <path
+//     stroke="currentColor"
+//     stroke-linecap="round"
+//     stroke-linejoin="round"
+//     stroke-width="2"
+//     d="m22 7-7.869 7.869c-.396.396-.594.594-.822.668a1 1 0 0 1-.618 0c-.228-.074-.426-.272-.822-.668L9.13 12.13c-.396-.396-.594-.594-.822-.668a1 1 0 0 0-.618 0c-.228.074-.426.272-.822.668L2 17M22 7h-7m7 0v7"
+//   />
+// </svg>;
+
+// 10. i do not find tailwind.config.js in my project when i install  tailwind... and i wanted to use custom classes using utility and root as directed in the documentation it's not wqorking
